@@ -1,6 +1,6 @@
 # drumpad
 
-A new Flutter project.
+Drumpad app with Flutter.
 
 ## Getting Started
 
